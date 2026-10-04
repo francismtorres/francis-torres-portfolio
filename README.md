@@ -75,9 +75,9 @@ In line with the course's permitted-use policy for AI tools, I used an AI assist
 
 \- Ran, tested and reviewed the site locally (`npm install`, `npm run lint`, `npm run build`, `npm run dev`) and confirmed the build passes.
 
-\- Created the GitHub repository, pushed the code, and deployed the site to \[Vercel/Netlify].
+\- Created the GitHub repository, pushed the code, and deployed the site to Vercel.
 
-\- Reviewed the code so that I can explain how it works, including routing, the contact form's validation and redirect, and the data-driven pages. I rewrote the mission statement in my own words to reflect my own personality and changed the colour palette to allow for a more accessible and appealing minimalistic aesthetic visual. 
+\- Reviewed the code so that I can explain how it works, including routing, the contact form's validation and redirect, and the data-driven pages. I drafted the mission statement in my own words to reflect my own personality and changed the colour palette to allow for a more accessible and appealing minimalistic aesthetic visual. 
 
 
 
